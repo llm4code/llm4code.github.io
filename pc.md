@@ -6,7 +6,9 @@ permalink: /pc/
 
 ## Program Committee
 
-- [Bram Adams](https://mcis.cs.queensu.ca/) (Queen's University, Canada)
+TBA
+
+<!-- - [Bram Adams](https://mcis.cs.queensu.ca/) (Queen's University, Canada)
 - [Tegawendé F. Bissyandé ](https://bissyande.github.io) (University of Luxembourg, Luxembourg)
 - [Xinyun Chen](https://jungyhuk.github.io/) (Google DeepMind, USA)
 - [Shing-Chi Cheung](https://home.cse.ust.hk/~scc/) (The Hong Kong University of Science and Technology, China)
@@ -30,4 +32,4 @@ permalink: /pc/
 - [Tianyi Zhang](https://tianyi-zhang.github.io/) (Purdue University, USA)
 - [Thomas Zimmermann](https://thomas-zimmermann.com/) (Microsoft Research, USA)
 
-<p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
+<p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p> -->
