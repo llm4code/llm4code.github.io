@@ -8,12 +8,13 @@ permalink: /organization/
 
 * [Prem Devanbu](https://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 * [Yiling Lou](https://yilinglou.github.io/) (Fudan University, China)
+* [Arjun Guha](https://www.khoury.northeastern.edu/home/arjunguha/main/home/) (Northeastern University, USA)
 * [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University, USA)
 * [Lingming Zhang](http://lingming.cs.illinois.edu/) (UIUC, USA)
 
-## Publicity Chair
+<!-- ## Publicity Chair
 * [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
-* [Junwei Liu](https://to-d.github.io) (Fudan University, China)
+* [Junwei Liu](https://to-d.github.io) (Fudan University, China) -->
 
 ## Web Chair
 

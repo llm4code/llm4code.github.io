@@ -4,8 +4,9 @@ layout: home
 permalink: /call/
 ---
 
+TBA
 
-## Research & Position Papers
+<!-- ## Research & Position Papers
 
 > *Submission Link:* [https://llm4code2024.hotcrp.com/](https://llm4code2024.hotcrp.com/)
 
@@ -48,7 +49,7 @@ This workshop accepts (not limited to) the submissions of the following topics:
     - Prompt tuning and prompt engineering
     - Pretraining objective design
     - Model alignment
-    - Model optimization/distillation/quantization
+    - Model optimization/distillation/quantization -->
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

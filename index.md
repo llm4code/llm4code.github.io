@@ -14,16 +14,16 @@ Workshop(
 )
 ``` -->
 
-<p>
+<!-- <p>
   <picture>
     <source srcset="/assets/llm4code-website-mobile-light.png" media="(prefers-color-scheme: light) and (max-width: 600px)">
     <source srcset="/assets/llm4code-website-mobile-dark.png" media="(prefers-color-scheme: dark) and (max-width: 600px)">
     <source srcset="/assets/llm4code-website-light.png" media="(prefers-color-scheme: light)">
     <source srcset="/assets/llm4code-website-dark.png" media="(prefers-color-scheme: dark)">
-    <!-- dark version by default -->
+    dark version by default
     <img src="/assets/llm4code-website-dark.png">
   </picture>
-</p>
+</p> -->
 
 <div id="light-twitter-timeline">
 <blockquote class="twitter-tweet" data-cards="hidden" width=250 align="right"><p lang="en" dir="ltr">📢🚨 Call for Papers<br><br>Interested in Large Language Models for Code? Consider submitting to the 1st LLM4Code workshop at <a href="https://twitter.com/ICSEconf?ref_src=twsrc%5Etfw">@ICSEconf</a> 2024! <a href="https://twitter.com/hashtag/LLM4Code?src=hash&amp;ref_src=twsrc%5Etfw">#LLM4Code</a><br><br>🌟Website: <a href="https://t.co/RT8e8ymSpw">https://t.co/RT8e8ymSpw</a><br>🌟Deadline: Dec 7, 2023<br>🌟8-page research paper or 4-page position paper<br><br>Please help retweet!<br>🧵</p>&mdash; LLM4Code (@llm4code) <a href="https://twitter.com/llm4code/status/1712181254970281991?ref_src=twsrc%5Etfw">October 11, 2023</a></blockquote>
@@ -38,8 +38,11 @@ Workshop(
 <!-- We are pleased to announce that the 1st International Workshop on Large Language Models for Code (**LLM4Code**) will take place in Lisbon, co-located with [ICSE 2024](https://conf.researchr.org/home/icse-2024)! The submission deadline is **Dec 7th**, 2023. You can submit through [this link](https://llm4code2024.hotcrp.com/). -->
 
 ## News
-- **Oct 11, 2023** Our [HotCRP site](https://llm4code2024.hotcrp.com/) is ready for your submissions! (Submission deadline: **Dec 7th**, 2023)
-- **Oct 11, 2023** Follow us on Twitter/X ([@llm4code](https://twitter.com/llm4code)) to hear timely updates!
+
+Stay tuned for updates!
+
+<!-- - **Oct 11, 2023** Our [HotCRP site](https://llm4code2024.hotcrp.com/) is ready for your submissions! (Submission deadline: **Dec 7th**, 2023)
+- **Oct 11, 2023** Follow us on Twitter/X ([@llm4code](https://twitter.com/llm4code)) to hear timely updates! -->
 
 ## About
 
