@@ -1,0 +1,440 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Mukta:wght@200;300;400;500;600;700;800&display=swap");
+/* lora-regular - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: normal; font-weight: 400; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-regular.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-italic - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: italic; font-weight: 400; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-italic.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-500 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: normal; font-weight: 500; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-500.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-500italic - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: italic; font-weight: 500; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-500italic.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-600 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: normal; font-weight: 600; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-600.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-600italic - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: italic; font-weight: 600; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-600italic.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-700 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: normal; font-weight: 700; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-700.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* lora-700italic - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Lora-Local'; font-style: italic; font-weight: 700; src: url("/assets/fonts/Lora/lora-v32-latin_latin-ext-700italic.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-200 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 200; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-200.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-300 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 300; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-300.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-regular - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 400; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-regular.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-500 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 500; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-500.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-600 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 600; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-600.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-700 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 700; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-700.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* mukta-800 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Mukta-Local'; font-style: normal; font-weight: 800; src: url("/assets/fonts/Mukta/mukta-v14-latin_latin-ext-800.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-200 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 200; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-200.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-300 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 300; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-300.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-regular - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 400; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-regular.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-500 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 500; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-500.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-600 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 600; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-600.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-700 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 700; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-700.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-800 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 800; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-800.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+/* inconsolata-900 - latin_latin-ext */
+@font-face { font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+font-family: 'Inconsolata-Local'; font-style: normal; font-weight: 900; src: url("/assets/fonts/Inconsolata/inconsolata-v31-latin_latin-ext-900.woff2") format("woff2");
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */ }
+:root { --minima-brand-color: #828282; --minima-brand-color-light: #e8e8e8; --minima-brand-color-dark: #424242; --minima-site-title-color: #424242; --minima-text-color: #111111; --minima-background-color: #fdfdfd; --minima-code-background-color: #eeeeff; --minima-link-base-color: #2a7ae2; --minima-link-visited-color: #1756a9; --minima-link-hover-color: #111111; --minima-border-color-01: #e8e8e8; --minima-border-color-02: #dbdbdb; --minima-border-color-03: #424242; --minima-table-text-color: #3f3f3f; --minima-table-zebra-color: #f7f7f7; --minima-table-header-bg-color: #f0f0f0; --minima-table-header-border: #e0e0e0; --minima-table-border-color: #e8e8e8; }
+
+.highlight .c { color: #998; font-style: italic; }
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight .k { font-weight: bold; }
+.highlight .o { font-weight: bold; }
+.highlight .cm { color: #998; font-style: italic; }
+.highlight .cp { color: #999; font-weight: bold; }
+.highlight .c1 { color: #998; font-style: italic; }
+.highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+.highlight .gd { color: #000; background-color: #fdd; }
+.highlight .gd .x { color: #000; background-color: #faa; }
+.highlight .ge { font-style: italic; }
+.highlight .gr { color: #a00; }
+.highlight .gh { color: #999; }
+.highlight .gi { color: #000; background-color: #dfd; }
+.highlight .gi .x { color: #000; background-color: #afa; }
+.highlight .go { color: #888; }
+.highlight .gp { color: #555; }
+.highlight .gs { font-weight: bold; }
+.highlight .gu { color: #aaa; }
+.highlight .gt { color: #a00; }
+.highlight .kc { font-weight: bold; }
+.highlight .kd { font-weight: bold; }
+.highlight .kp { font-weight: bold; }
+.highlight .kr { font-weight: bold; }
+.highlight .kt { color: #458; font-weight: bold; }
+.highlight .m { color: #099; }
+.highlight .s { color: #d14; }
+.highlight .na { color: #008080; }
+.highlight .nb { color: #0086B3; }
+.highlight .nc { color: #458; font-weight: bold; }
+.highlight .no { color: #008080; }
+.highlight .ni { color: #800080; }
+.highlight .ne { color: #900; font-weight: bold; }
+.highlight .nf { color: #900; font-weight: bold; }
+.highlight .nn { color: #555; }
+.highlight .nt { color: #000080; }
+.highlight .nv { color: #008080; }
+.highlight .ow { font-weight: bold; }
+.highlight .w { color: #bbb; }
+.highlight .mf { color: #099; }
+.highlight .mh { color: #099; }
+.highlight .mi { color: #099; }
+.highlight .mo { color: #099; }
+.highlight .sb { color: #d14; }
+.highlight .sc { color: #d14; }
+.highlight .sd { color: #d14; }
+.highlight .s2 { color: #d14; }
+.highlight .se { color: #d14; }
+.highlight .sh { color: #d14; }
+.highlight .si { color: #d14; }
+.highlight .sx { color: #d14; }
+.highlight .sr { color: #009926; }
+.highlight .s1 { color: #d14; }
+.highlight .ss { color: #990073; }
+.highlight .bp { color: #999; }
+.highlight .vc { color: #008080; }
+.highlight .vg { color: #008080; }
+.highlight .vi { color: #008080; }
+.highlight .il { color: #099; }
+
+@media (prefers-color-scheme: dark) { :root { --minima-brand-color: #999999; --minima-brand-color-light: #a6a6a6; --minima-brand-color-dark: #404040; --minima-site-title-color: #a6a6a6; --minima-text-color: #dddddd; --minima-background-color: #181818; --minima-code-background-color: #212121; --minima-link-base-color: #79b8ff; --minima-link-visited-color: #79b8ff; --minima-link-hover-color: #dddddd; --minima-border-color-01: #404040; --minima-border-color-02: #a6a6a6; --minima-border-color-03: #999999; --minima-table-text-color: #dddddd; --minima-table-zebra-color: #222222; --minima-table-header-bg-color: #323232; --minima-table-header-border: #4e4e4e; --minima-table-border-color: #404040; }
+  .highlight .c { color: #545454; font-style: italic; }
+  .highlight .err { color: #f07178; background-color: #e3d2d2; }
+  .highlight .k { color: #89DDFF; font-weight: bold; }
+  .highlight .o { font-weight: bold; }
+  .highlight .cm { color: #545454; font-style: italic; }
+  .highlight .cp { color: #545454; font-weight: bold; }
+  .highlight .c1 { color: #545454; font-style: italic; }
+  .highlight .cs { color: #545454; font-weight: bold; font-style: italic; }
+  .highlight .gd { color: #000; background-color: #fdd; }
+  .highlight .gd .x { color: #000; background-color: #faa; }
+  .highlight .ge { font-style: italic; }
+  .highlight .gr { color: #f07178; }
+  .highlight .gh { color: #999; }
+  .highlight .gi { color: #000; background-color: #dfd; }
+  .highlight .gi .x { color: #000; background-color: #afa; }
+  .highlight .go { color: #888; }
+  .highlight .gp { color: #555; }
+  .highlight .gs { font-weight: bold; }
+  .highlight .gu { color: #aaa; }
+  .highlight .gt { color: #f07178; }
+  .highlight .kc { font-weight: bold; }
+  .highlight .kd { font-weight: bold; }
+  .highlight .kp { font-weight: bold; }
+  .highlight .kr { font-weight: bold; }
+  .highlight .kt { color: #FFCB6B; font-weight: bold; }
+  .highlight .m { color: #F78C6C; }
+  .highlight .s { color: #C3E88D; }
+  .highlight .na { color: #008080; }
+  .highlight .nb { color: #EEFFFF; }
+  .highlight .nc { color: #FFCB6B; font-weight: bold; }
+  .highlight .no { color: #008080; }
+  .highlight .ni { color: #800080; }
+  .highlight .ne { color: #900; font-weight: bold; }
+  .highlight .nf { color: #82AAFF; font-weight: bold; }
+  .highlight .nn { color: #555; }
+  .highlight .nt { color: #FFCB6B; }
+  .highlight .nv { color: #EEFFFF; }
+  .highlight .ow { font-weight: bold; }
+  .highlight .w { color: #EEFFFF; }
+  .highlight .mf { color: #F78C6C; }
+  .highlight .mh { color: #F78C6C; }
+  .highlight .mi { color: #F78C6C; }
+  .highlight .mo { color: #F78C6C; }
+  .highlight .sb { color: #C3E88D; }
+  .highlight .sc { color: #C3E88D; }
+  .highlight .sd { color: #C3E88D; }
+  .highlight .s2 { color: #C3E88D; }
+  .highlight .se { color: #EEFFFF; }
+  .highlight .sh { color: #C3E88D; }
+  .highlight .si { color: #C3E88D; }
+  .highlight .sx { color: #C3E88D; }
+  .highlight .sr { color: #C3E88D; }
+  .highlight .s1 { color: #C3E88D; }
+  .highlight .ss { color: #C3E88D; }
+  .highlight .bp { color: #999; }
+  .highlight .vc { color: #FFCB6B; }
+  .highlight .vg { color: #EEFFFF; }
+  .highlight .vi { color: #EEFFFF; }
+  .highlight .il { color: #F78C6C; } }
+html { font-size: 16px; }
+
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/** Basic styling */
+body { font: 400 16px/1.5 "Lora-Local", "Lora", serif; color: var(--minima-text-color); background-color: var(--minima-background-color); -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; overflow-wrap: break-word; text-align: justify; -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+
+h1, h2, h3, h4, h5, h6 { margin-bottom: 15px; }
+
+hr { margin-top: 30px; margin-bottom: 30px; }
+
+/** `main` element */
+main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
+
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
+
+/** Figures */
+figure > img { display: block; }
+
+figcaption { font-size: 14px; }
+
+/** Lists */
+ul, ol { margin-left: 30px; }
+
+li > ul, li > ol { margin-bottom: 0; }
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-family: "Mukta-Local", "Mukta", sans-serif; }
+
+/** Links */
+a { color: var(--minima-link-base-color); text-decoration: none; }
+a:visited { color: var(--minima-link-visited-color); }
+a:hover { color: var(--minima-link-hover-color); text-decoration: underline; }
+.social-media-list a:hover, .pagination a:hover { text-decoration: none; }
+.social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
+
+/** Blockquotes */
+blockquote { color: var(--minima-brand-color); border-left: 4px solid var(--minima-border-color-01); padding-left: 15px; }
+blockquote > :last-child { margin-bottom: 0; }
+
+/** Code formatting */
+pre, code { font-family: "Inconsolata-Local", "Inconsolata", monospace; font-size: 0.9375em; border: 1px solid var(--minima-border-color-01); border-radius: 3px; background-color: var(--minima-code-background-color); }
+
+code { padding: 1px 5px; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+pre > code { border: 0; padding-right: 0; padding-left: 0; }
+
+.highlight { border-radius: 3px; background: var(--minima-code-background-color); }
+.highlighter-rouge .highlight { background: var(--minima-code-background-color); }
+
+/** Wrapper */
+.wrapper { max-width: calc(1100px - (30px)); margin-right: auto; margin-left: auto; padding-right: 15px; padding-left: 15px; }
+@media screen and (min-width: 800px) { .wrapper { max-width: calc(1100px - (30px * 2)); padding-right: 30px; padding-left: 30px; } }
+
+/** Clearfix */
+.wrapper:after { content: ""; display: table; clear: both; }
+
+/** Icons */
+.orange { color: #f66a0a; }
+
+.grey { color: #828282; }
+
+.svg-icon { width: 1.25em; height: 1.25em; display: inline-block; fill: currentColor; vertical-align: text-bottom; }
+
+/** Tables */
+table { margin-bottom: 30px; width: 100%; text-align: left; color: var(--minima-table-text-color); border-collapse: collapse; border: 1px solid var(--minima-table-border-color); }
+table tr:nth-child(even) { background-color: var(--minima-table-zebra-color); }
+table th, table td { padding: 10px 15px; }
+table th { background-color: var(--minima-table-header-bg-color); border: 1px solid var(--minima-table-header-border); }
+table td { border: 1px solid var(--minima-table-border-color); }
+
+/** Site header */
+.site-header { min-height: 55.95px; padding-top: 30px; padding-bottom: 15px; text-align: start; position: relative; }
+
+.site-title { font-size: 2.2rem; font-family: "Mukta-Local", "Mukta", sans-serif; font-weight: bold; letter-spacing: -1px; line-height: 85%; color: var(--minima-text-color); }
+
+.site-description { font-family: "Inconsolata-Local", "Inconsolata", monospace; color: var(--minima-brand-color); margin-top: 10px; margin-bottom: 25px; }
+@media screen and (max-width: 600px) { .site-description { margin-bottom: 10px; } }
+
+@media (prefers-color-scheme: dark) { .site-description { border-image-source: linear-gradient(45deg, #5cd6ff, #ff62d5); } }
+#dark-twitter-timeline { display: none; }
+
+@media (prefers-color-scheme: dark) { #dark-twitter-timeline { display: block; }
+  #light-twitter-timeline { display: none; } }
+@media screen and (max-width: 600px) { #dark-twitter-timeline { display: none; }
+  #light-twitter-timeline { display: none; } }
+.custom-ul { margin-left: 0; padding-left: 0; list-style: none; list-style-position: inside; }
+
+.site-description > :last-child { margin-bottom: 0; }
+
+@supports ((background-clip: text) or (-webkit-background-clip: text) or (-moz-background-clip: text)) and ((-webkit-text-fill-color: transparent) or (-moz-text-fill-color: transparent)) and (background: linear-gradient(to top, red, blue)) { .title-gradient { background-image: linear-gradient(45deg, #0259fa, #ff00c3); background-size: 100%; background-clip: text; -webkit-background-clip: text; -moz-background-clip: text; -webkit-text-fill-color: transparent; -moz-text-fill-color: transparent; }
+  @media (prefers-color-scheme: dark) { .title-gradient { background-image: linear-gradient(45deg, #5cd6ff, #ff62d5); } } }
+.fancy-border, .site-nav-wrapper, .footer-col-wrapper { border: 1px solid var(--minima-border-color-01); }
+
+@supports (background: linear-gradient(to top, red, blue)) { .fancy-border, .site-nav-wrapper, .footer-col-wrapper { border: 5px solid; border-image-source: linear-gradient(45deg, #0259fa, #ff00c3); border-image-slice: 1; }
+  @media (prefers-color-scheme: dark) { .fancy-border, .site-nav-wrapper, .footer-col-wrapper { border-image-source: linear-gradient(45deg, #5cd6ff, #ff62d5); } } }
+.site-nav-wrapper { border-top: none; border-left: none; border-right: none; }
+
+.site-nav { font-family: "Mukta-Local", "Mukta", sans-serif; font-size: 1.25rem; padding-bottom: 5px; }
+.site-nav .menu-icon { float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
+.site-nav .menu-icon > svg path { fill: var(--minima-border-color-03); }
+.site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
+.site-nav input ~ .trigger { clear: both; display: none; }
+.site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
+.site-nav .page-link { color: var(--minima-brand-color); display: block; padding: 5px 0; white-space: nowrap; }
+.site-nav .page-link:not(:last-child) { margin-right: 0; }
+.site-nav .page-link.active { color: var(--minima-text-color); font-weight: bold; }
+@media screen and (min-width: 600px) { .site-nav { position: static; border: none; background-color: inherit; }
+  .site-nav label[for="nav-trigger"] { display: none; }
+  .site-nav .menu-icon { display: none; }
+  .site-nav input ~ .trigger { display: block; }
+  .site-nav .page-link { display: inline-block; padding: 0; margin-left: auto; }
+  .site-nav .page-link:not(:last-child) { margin-right: 20px; } }
+
+/** Site footer */
+.site-footer { text-align: start; }
+
+.footer-col-wrapper { padding: 15px 0; border-bottom: none; border-left: none; border-right: none; }
+
+.footer-heading { font-size: 1.125rem; margin-bottom: 15px; }
+
+.feed-subscribe .svg-icon { padding: 5px 5px 2px 0; }
+
+.contact-list, .social-media-list, .pagination { list-style: none; margin-left: 0; }
+
+.footer-col-wrapper, .social-links { font-size: 0.9375rem; color: var(--minima-brand-color); }
+
+.footer-col-1, .footer-col-2 { width: calc(50% - (30px / 2)); }
+
+.footer-col-3 { width: calc(100% - (30px / 2)); }
+
+@media screen and (min-width: 800px) { .footer-col-1 { width: calc(35% - (30px / 2)); }
+  .footer-col-2 { width: calc(20% - (30px / 2)); }
+  .footer-col-3 { width: calc(45% - (30px / 2)); } }
+@media screen and (min-width: 600px) { .footer-col-wrapper { display: flex; }
+  .footer-col { width: calc(100% - (30px / 2)); } }
+/** Page content */
+.page-content { padding: 15px 0; flex: 1 0 auto; }
+
+.page-heading { font-size: 2rem; }
+
+.post-list-heading { font-size: 1.75rem; }
+
+.post-list { margin-left: 0; list-style: none; }
+.post-list > li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: var(--minima-brand-color); }
+
+.post-link { display: block; font-size: 1.5rem; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title, .post-content h1 { font-size: 2rem; letter-spacing: -1px; line-height: 1.15; }
+@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 2rem; } }
+
+.post-content { margin-bottom: 30px; }
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
+.post-content h2 { font-size: 1.75rem; }
+@media screen and (min-width: 800px) { .post-content h2 { font-size: 2rem; } }
+.post-content h3 { font-size: 1.375rem; }
+@media screen and (min-width: 800px) { .post-content h3 { font-size: 1.625rem; } }
+.post-content h4 { font-size: 1.25rem; }
+.post-content h5 { font-size: 1.125rem; }
+.post-content h6 { font-size: 1.0625rem; }
+
+.social-media-list, .pagination { display: table; margin: 0 auto; }
+.social-media-list li, .pagination li { float: left; margin: 5px 10px 5px 0; }
+.social-media-list li:last-of-type, .pagination li:last-of-type { margin-right: 0; }
+.social-media-list li a, .pagination li a { display: block; padding: 10px 12px; border: 1px solid var(--minima-border-color-01); }
+.social-media-list li a:hover, .pagination li a:hover { border-color: var(--minima-border-color-02); }
+
+/** Pagination navbar */
+.pagination { margin-bottom: 30px; }
+.pagination li a, .pagination li div { min-width: 41px; text-align: center; box-sizing: border-box; }
+.pagination li div { display: block; padding: 7.5px; border: 1px solid transparent; }
+.pagination li div.pager-edge { color: var(--minima-border-color-01); border: 1px dashed; }
+
+/** Grid helpers */
+@media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+.footer-social-media { margin-top: 5px; }
+
+.note { font-size: 0.9375rem; color: var(--minima-brand-color); }
+
+.speakers { display: flex; flex-wrap: wrap; justify-content: left; /* Centers speakers in the container */ }
+
+.speaker { text-align: center; /* Centers the content inside each speaker div */ margin: 20px 20px 0 0; /* Adds margin around each speaker for spacing */ width: 150px; /* Sets a fixed width for each speaker div */ }
+@media screen and (max-width: 600px) { .speaker { width: 100px; /* Makes speaker divs full width on small screens */ } }
+
+.speaker-img { width: 100%; /* Makes the image responsive to the div's width */ height: auto; /* Maintains the aspect ratio of the image */ border-radius: 50%; /* Makes the image circular */ margin-bottom: 10px; /* Adds some space between the image and the text */ box-shadow: 0 2px 3px rgba(0, 0, 0, 0.6); }
+
+.speaker-name { font-size: 18px; /* Sets the font size for the speaker's name */ font-weight: bold; /* Makes the speaker's name bold */ margin-bottom: 0px; /* Adds some space between the name and the affiliation */ font-family: "Mukta-Local", "Mukta", sans-serif; }
+
+.speaker-affliation { font-size: 16px; /* Sets the font size for the speaker's affiliation */ font-family: "Mukta-Local", "Mukta", sans-serif; }
+
+@media screen and (max-width: 600px) { .speaker-name, .speaker-affliation { font-size: 14px; /* Adjusts font size for smaller screens */ } }
