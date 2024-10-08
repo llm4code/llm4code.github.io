@@ -39,7 +39,7 @@ This workshop accepts (not limited to) the submissions of the following topics:
     - LLM-based code comprehension
     - LLM-based reverse engineering
     - LLM-based code evolution and maintenance
-    - LLM-based refactor
+    - LLM-based refactoring
     - LLM-based software engineering agents
 - **Datasets and Evaluation**
     - Datasets for LLM4Code pre-training
