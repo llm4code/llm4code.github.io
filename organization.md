@@ -13,9 +13,10 @@ permalink: /organization/
 * [Zijian Wang](https://zijianwang.me) (Amazon Q Developer Team, USA)
 * [Lingming Zhang](http://lingming.cs.illinois.edu/) (UIUC, USA)
 
-<!-- ## Publicity Chair
+## Publicity Chair
+
+* [Xueying Du](https://dxy-lemon.github.io/) (Fudan University, China)
 * [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
-* [Junwei Liu](https://to-d.github.io) (Fudan University, China) -->
 
 ## Web Chair
 
