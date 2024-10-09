@@ -6,9 +6,9 @@ permalink: /date/
 
 ## Important Dates
 
-TBA
+<!-- TBA -->
 
-<!-- * Submission date: **Dec 7, 2023**
-* Notification date: **Jan 11, 2024**
-* Camera-ready date: **Jan 25, 2024**
-* Workshop date: **April 16, 2024** (tentative) -->
+* Submission date: **Nov 18, 2024**
+* Notification date: **Dec 16, 2024**
+* Camera-ready date: **Feb 5, 2025**
+* Workshop date: **May 3, 2025** (tentative)
