@@ -39,7 +39,7 @@ Workshop(
 
 ## News
 
-Stay tuned for updates!
+- Oct, 2024: Our HotCRP site (https://llm4code2025.hotcrp.com/) is ready for your submissions!
 
 <!-- - **Oct 11, 2023** Our [HotCRP site](https://llm4code2024.hotcrp.com/) is ready for your submissions! (Submission deadline: **Dec 7th**, 2023)
 - **Oct 11, 2023** Follow us on Twitter/X ([@llm4code](https://twitter.com/llm4code)) to hear timely updates! -->
