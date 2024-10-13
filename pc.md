@@ -47,9 +47,11 @@ permalink: /pc/
 - [Eran Yahav](https://csaws.cs.technion.ac.il/~yahave/) (Technion and Tabnine, Israel)
 - [Jinqiu Yang](https://jinqiuyang.github.io/) (Concordia University, Canada)
 - [Wei Yang](https://youngwei.com/) (UT Dallas, USA)
+- [He Ye](https://heye.me/) (Carnegie Mellon University, USA)
 - [Jie Zhang](https://sites.google.com/view/jie-zhang/home) (King's College London, UK)
 - [Tianyi Zhang](https://tianyi-zhang.github.io/) (Purdue University, USA)
 - [Yuqun Zhang](https://zhangyuqun.github.io/) (Southern University of Science and Technology, China)
 - [Ziqi Zhang](https://ziqi-zhang.github.io/) (UIUC, USA)
+- [Thomas Zimmermann](https://thomas-zimmermann.com/) (Microsoft Research, USA)
 
 <p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
