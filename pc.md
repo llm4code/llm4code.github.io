@@ -49,7 +49,7 @@ permalink: /pc/
 - [Wei Yang](https://youngwei.com/) (UT Dallas, USA)
 - [Jie Zhang](https://sites.google.com/view/jie-zhang/home) (King's College London, UK)
 - [Tianyi Zhang](https://tianyi-zhang.github.io/) (Purdue University, USA)
-- [Yuqun Zhang](https://zhangyuqun.github.io/) (Southern Universtiy of Science and Technology, China)
+- [Yuqun Zhang](https://zhangyuqun.github.io/) (Southern University of Science and Technology, China)
 - [Ziqi Zhang](https://ziqi-zhang.github.io/) (UIUC, USA)
 
 <p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
