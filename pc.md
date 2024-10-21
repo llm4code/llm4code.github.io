@@ -45,6 +45,7 @@ permalink: /pc/
 - [Song Wang](https://www.eecs.yorku.ca/~wangsong) (York University, Canada)
 - [Wenxi Wang](https://wenxiwang.github.io/) (The University of Virginia, USA)
 - [Lili Wei](https://liliweise.github.io/) (McGill University, Canada)
+- [Yingfei Xiong](https://xiongyingfei.github.io/) (Peking University, China)
 - [Bowen Xu](https://www.bowenxu.me) (North Carolina State University, USA)
 - [Eran Yahav](https://csaws.cs.technion.ac.il/~yahave/) (Technion and Tabnine, Israel)
 - [Jinqiu Yang](https://jinqiuyang.github.io/) (Concordia University, Canada)
