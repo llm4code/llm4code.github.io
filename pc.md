@@ -11,7 +11,7 @@ permalink: /pc/
 - [Edward Ayers](https://www.edayers.com/) (Cogna Ltd, UK)
 - [Alex Bezzubov](https://www.jetbrains.com/research/) (JetBrains, Netherlands)
 - [Tegawendé F. Bissyandé](https://bissyande.github.io) (University of Luxembourg, Luxembourg)
-- [Nghi Bui](https://bdqnghi.github.io/) (FPT Software AI Center, Vietnam)
+- [Nghi Bui](https://bdqnghi.github.io/) (FPT Software AI Center, Viet Nam)
 - [José Cambronero](https://www.josecambronero.com/) (Google, USA)
 - [Tse-Hsun (Peter) Chen](https://petertsehsun.github.io/) (Concordia University, Canada)
 - [Shing-Chi Cheung](https://home.cse.ust.hk/~scc/) (The Hong Kong University of Science and Technology, China)
