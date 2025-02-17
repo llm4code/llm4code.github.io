@@ -42,6 +42,7 @@ Workshop(
 
 ## News
 
+- Feb, 2025: We have posted all [accepted papers](https://llm4code.github.io/papers) and are now calling for [registration](https://conf.researchr.org/attending/icse-2025/registration)! Congrats to all the authors!!
 - Oct, 2024: Our [HotCRP site](https://llm4code2025.hotcrp.com/) is ready for your submissions! Deadline: Monday Nov 18, 2024, 11:59:59 PM AoE.
 
 <!-- - **Oct 11, 2023** Our [HotCRP site](https://llm4code2024.hotcrp.com/) is ready for your submissions! (Submission deadline: **Dec 7th**, 2023)
