@@ -1,13 +1,13 @@
 ---
 title: Speakers
-layout: home
+layout: speakers
 permalink: /speakers/
 ---
 
-## Keynote Speakers
+<!-- ## Keynote Speakers
 
 TBA
 
 ## Panelists
 
-TBA
+TBA -->
