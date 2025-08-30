@@ -1,14 +1,11 @@
 ---
 title: Important Dates
 layout: home
-permalink: /date/
+permalink: /dates/
 ---
 
 ## Important Dates
 
-<!-- TBA -->
-
-* Submission date: **Nov 18, 2024**
-* Notification date: **Dec 16, 2024**
-* Camera-ready date: **Feb 5, 2025**
-* Workshop date: **May 3, 2025** (tentative)
+* **Submission Deadline: 20 October 2025  23:59 AOE**  
+* **Notification: 24 November 2025**  
+* **Workshop Papers Camera Ready: 26 Jan 2026**

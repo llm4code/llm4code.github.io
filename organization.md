@@ -4,23 +4,23 @@ layout: home
 permalink: /organization/
 ---
 
-## Organizing Committee
+## General Co-Chairs
 
-* [Prem Devanbu](https://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
-* [Arjun Guha](https://www.khoury.northeastern.edu/home/arjunguha/main/home/) (Northeastern University, USA)
-* [Yiling Lou](https://yilinglou.github.io/) (Fudan University, China)
-* [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University, USA)
-* [Zijian Wang](https://zijianwang.me) (Amazon Q Developer Team, USA)
-* [Lingming Zhang](http://lingming.cs.illinois.edu/) (UIUC, USA)
+* [**Prem Devanbu**](https://web.cs.ucdavis.edu/~devanbu/) **(UC Davis, USA)**  
+* [**Lin Tan**](https://www.cs.purdue.edu/homes/lintan/) **(Purdue University, USA)**  
+* [**Lingming Zhang**](http://lingming.cs.illinois.edu/) **(UIUC, USA)**
 
-## Publicity Chair
+## PC Co-Chairs
 
-* [Xueying Du](https://dxy-lemon.github.io/) (Fudan University, China)
-* [Jiawei Liu](https://jiawei-site.github.io/) (UIUC, USA)
+* [**Kexin Pei**](https://sites.google.com/site/kexinpeisite/) **(The University of Chicago, USA)**  
+* [**Yiling Lou**](https://yilinglou.github.io/) **(Fudan University, China)**
 
-## Web Chair
+## Web Co-Chairs
 
-* [Yifeng Ding](https://natedingyifeng.github.io/) (UIUC, USA)
-* [Yuxiang Wei](https://yuxiang.cs.illinois.edu/) (UIUC, USA)
+* [**Chenyuan Yang**](https://yangchenyuan.github.io/) **(UIUC, USA)**  
+* [**Zijie Zhao**](https://zzjas.com/) **(UIUC, USA)**
 
-<p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
+## Publicity Co-Chairs
+
+* [**Junwei Liu**](https://to-d.github.io/) **(Fudan University, China)**  
+* [**Ziqi Zhang**](https://ziqi-zhang.github.io/) **(UIUC, USA)**

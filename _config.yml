@@ -35,12 +35,12 @@ plugins:
 
 header_pages:
   - index.md
+  - call.md
+  - dates.md
+  - organization.md
   - program.md
   # - speakers.md
   # - papers.md
-  # - call.md
-  # - dates.md
-  # - organization.md
   # - pc.md
 
 twitter:
