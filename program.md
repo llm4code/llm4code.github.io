@@ -6,7 +6,7 @@ permalink: /program/
 
 ## Program
 
-LLM4Code 2026 program is availabe on [ICSE 2026 website](https://conf.researchr.org/home/icse-2026).
+LLM4Code 2026 program is availabe on [ICSE 2026 website](https://conf.researchr.org/home/icse-2026/llm4code-2026).
 
 <!-- | Time | Session |
 |-------------------|--------------------------------|
