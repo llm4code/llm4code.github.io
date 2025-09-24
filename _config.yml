@@ -38,10 +38,10 @@ header_pages:
   - call.md
   - dates.md
   - organization.md
+  - pc.md
   - program.md
   # - speakers.md
   # - papers.md
-  # - pc.md
 
 twitter:
   username: llm4code
