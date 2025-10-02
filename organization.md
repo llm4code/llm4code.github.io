@@ -18,7 +18,7 @@ permalink: /organization/
 ## Web Co-Chairs
 
 * [**Chenyuan Yang**](https://yangchenyuan.github.io/) **(UIUC, USA)**  
-* [**Zijie Zhao**](https://zzjas.com/) **(UIUC, USA)**
+* [**Zijie Zhao**](https://zijie.cs.illinois.edu/) **(UIUC, USA)**
 
 ## Publicity Co-Chairs
 
