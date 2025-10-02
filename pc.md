@@ -14,6 +14,7 @@ permalink: /pc/
 - [Saikat Dutta](https://www.cs.cornell.edu/~saikatd) (Cornell University, USA)
 - [Jiani Huang](https://www.cis.upenn.edu/~jianih/) (University of Pennsylvania, USA)
 - [Wenke Lee](https://wenke.gtisc.gatech.edu/) (Georgia Institute of Technology, USA)
+- [Haonan Li](https://haonan.me/) (UC Riverside, USA)
 - [Penghui Li](https://peng-hui.github.io/) (Columbia University, USA)
 - [Zhenhao Li](https://ginolzh.github.io/) (York University, Canada)
 - [Ziyang Li](https://cs.jhu.edu/~ziyang) (Johns Hopkins University, USA)
