@@ -37,6 +37,7 @@ permalink: /pc/
 - [Juan Zhai](https://people.cs.umass.edu/~juanzhai/) (UMass, Amherst, USA)
 - [Jie Zhang](https://sites.google.com/view/jie-zhang/home) (King's College London, UK)
 - [Tianyi Zhang](https://tianyi-zhang.github.io/) (Purdue University, USA)
+- [Derui Zhu](https://www.rit.edu/computing/directory/dxzvse-derui-zhu) (Rochester Institute of Technology, USA)
 - [Thomas Zimmermann](http://thomas-zimmermann.com) (University of California, Irvine, USA)
 
 <p class="note">📝 <em>All names are sorted alphabetically by last name.</em></p>
