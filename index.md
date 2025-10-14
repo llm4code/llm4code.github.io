@@ -42,7 +42,7 @@ Workshop(
 
 ## News
 
-Aug, 2025: Our [HotCRP site](https://icse2026-llm4code.hotcrp.com/) is ready for your submissions! Deadline: Monday 20 Oct 2025 23:59
+Aug, 2025: Our [HotCRP site](https://icse2026-llm4code.hotcrp.com/) is ready for your submissions! Deadline: ~~Monday 20 Oct 2025 23:59~~ **Friday 31 Oct 2025 23:59**
 
 <!-- - **Oct 11, 2023** Our [HotCRP site](https://llm4code2024.hotcrp.com/) is ready for your submissions! (Submission deadline: **Dec 7th**, 2023)
 - **Oct 11, 2023** Follow us on Twitter/X ([@llm4code](https://twitter.com/llm4code)) to hear timely updates! -->
