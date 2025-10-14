@@ -13,7 +13,7 @@ permalink: /organization/
 ## PC Co-Chairs
 
 * [**Kexin Pei**](https://sites.google.com/site/kexinpeisite/) **(The University of Chicago, USA)**  
-* [**Yiling Lou**](https://yilinglou.github.io/) **(Fudan University, China)**
+* [**Yiling Lou**](https://yilinglou.github.io/) **(UIUC, USA)**
 
 ## Web Co-Chairs
 
