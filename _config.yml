@@ -41,7 +41,7 @@ header_pages:
   - pc.md
   - program.md
   # - speakers.md
-  # - papers.md
+  - papers.md
 
 twitter:
   username: llm4code
