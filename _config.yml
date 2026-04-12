@@ -40,7 +40,7 @@ header_pages:
   - organization.md
   - pc.md
   - program.md
-  # - speakers.md
+  - speakers.md
   - papers.md
 
 twitter:

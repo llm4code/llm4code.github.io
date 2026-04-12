@@ -5,7 +5,8 @@ layout: base
 <h2>Keynote Speakers</h2>
 
 <div class="speakers">
-    {% for speaker in site.speakers %}
+    {% assign sorted_speakers = site.speakers | sort: "last_name" %}
+    {% for speaker in sorted_speakers %}
     <div class="{{ speaker.classname }}">
         <div class="speaker" style="float: left; width: 18%">
             <img src="/assets/speaker-images/{{ speaker.img }}" alt="{{ speaker.name }}" class="speaker-img">
@@ -15,7 +16,7 @@ layout: base
         <div class="keynote" style="float: left; text-align: left; width: 82%">
             <h2 style="font-size: 25px">{{ speaker.title }}</h2>
             <p><b>Abstract</b>: {{ speaker.abstract }}</p>
-            <p><b>Location</b>: The talk will be held on <a href="{{ speaker.zoom }}" target="_blank">zoom</a>.</p>
+            <p><b>Location</b>: The talk will be held in person at <a href="{{ speaker.room_link }}" target="_blank">{{ speaker.room }}</a> ({{ speaker.time }}).</p>
             <!-- <p><b>Slides</b>: The keynote slides can be downloaded <a href="{{ speaker.slides }}" target="_blank">here</a>.</p> -->
             <p><b>Bio</b>: {{ speaker.bio }}</p>
         </div>
@@ -27,3 +28,4 @@ layout: base
     <p></p>
     <p class="note">📝 <em> All names are sorted alphabetically by last name.</em></p>
 </div>
+
