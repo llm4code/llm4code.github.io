@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LLM4Code 2026
+title: LLM4Code 2027
 description: >- # this means to ignore newlines until "baseurl:"
-  ICSE 2026 Workshop on Large Language Model for Code
+  ICSE 2027 Workshop on Large Language Model for Code
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: llm4code.github.io
 url: "https://llm4code.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,13 +35,13 @@ plugins:
 
 header_pages:
   - index.md
-  - call.md
-  - dates.md
-  - organization.md
-  - pc.md
+  # - call.md
+  # - dates.md
+  # - organization.md
+  # - pc.md
   - program.md
-  - speakers.md
-  - papers.md
+  # - speakers.md
+  # - papers.md
 
 twitter:
   username: llm4code
