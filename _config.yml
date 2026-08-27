@@ -37,7 +37,7 @@ header_pages:
   - index.md
   # - call.md
   # - dates.md
-  # - organization.md
+  - organization.md
   # - pc.md
   - program.md
   # - speakers.md

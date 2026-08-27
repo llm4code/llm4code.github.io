@@ -4,23 +4,16 @@ layout: home
 permalink: /organization/
 ---
 
-## General Co-Chairs
+## General Chair
 
-* [**Prem Devanbu**](https://web.cs.ucdavis.edu/~devanbu/) **(UC Davis, USA)**  
-* [**Lin Tan**](https://www.cs.purdue.edu/homes/lintan/) **(Purdue University, USA)**  
-* [**Lingming Zhang**](http://lingming.cs.illinois.edu/) **(UIUC, USA)**
+* [**Lingming Zhang**](https://lingming.cs.illinois.edu/) **(UIUC, USA)**
 
 ## PC Co-Chairs
 
-* [**Kexin Pei**](https://sites.google.com/site/kexinpeisite/) **(The University of Chicago, USA)**  
-* [**Yiling Lou**](https://yilinglou.github.io/) **(UIUC, USA)**
+* [**Yangruibo (Robin) Ding**](https://yrbding.github.io/) **(UCLA, USA)**  
+* [**Saikat Dutta**](https://www.cs.cornell.edu/~saikatd/) **(Cornell University, USA)**  
+* [**Chao Peng**](https://chao-peng.github.io/) **(Tencent, China)**
 
-## Web Co-Chairs
+## Web Chair
 
-* [**Chenyuan Yang**](https://yangchenyuan.github.io/) **(UIUC, USA)**  
-* [**Zijie Zhao**](https://zijie.cs.illinois.edu/) **(UIUC, USA)**
-
-## Publicity Co-Chairs
-
-* [**Junwei Liu**](https://to-d.github.io/) **(Fudan University, China)**  
-* [**Ziqi Zhang**](https://ziqi-zhang.github.io/) **(UIUC, USA)**
+* [**Zhe Wang**](https://zhewang2001.github.io/) **(UIUC, USA)**
