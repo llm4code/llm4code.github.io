@@ -6,6 +6,6 @@ permalink: /dates/
 
 ## Important Dates
 
-* **Submission Deadline:** ~~20 October 2025~~ **31 October 2025  23:59 AOE**
-* **Notification:** ~~24 November 2025~~ **28 November 2025**
-* **Workshop Papers Camera Ready: 26 Jan 2026**
+* **Submission Deadline: 13 November 2026  23:59 AOE**
+* **Notification: 11 December 2026**
+* **Workshop Papers Camera Ready: 29 January 2027**

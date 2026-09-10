@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - index.md
   # - call.md
-  # - dates.md
+  - dates.md
   - organization.md
   # - pc.md
   - program.md
