@@ -6,6 +6,10 @@ permalink: /dates/
 
 ## Important Dates
 
-* Submission Deadline: **13 November 2026  23:59 AOE** *(tentative)*
-* Notification Date: **11 December 2026** *(tentative)*
-* Camera-ready Date: **29 January 2027** *(tentative)*
+* Workshop paper submission due: **Nov 13, 2026**  
+* Author notification due: **Dec 11, 2026**  
+* Proceedings information due to ICSE: **Dec 15, 2026**  
+* Workshop front matter due: **Jan 27, 2027**  
+* Camera-ready papers due: **Jan 29, 2027**
+
+All deadlines are 23:59 AoE (UTC−12).

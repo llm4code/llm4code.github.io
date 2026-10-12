@@ -35,10 +35,10 @@ plugins:
 
 header_pages:
   - index.md
-  # - call.md
+  - call.md
   - dates.md
   - organization.md
-  # - pc.md
+  - pc.md
   - program.md
   # - speakers.md
   # - papers.md

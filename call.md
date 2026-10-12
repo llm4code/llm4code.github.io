@@ -4,74 +4,78 @@ layout: home
 permalink: /call/
 ---
 
-*Submission Link:* [https://icse2026-llm4code.hotcrp.com/](https://icse2026-llm4code.hotcrp.com/)
+*Submission Link:* [https://icse2027-llm4code.hotcrp.com/](https://icse2027-llm4code.hotcrp.com/)
 
-## 1. Paper Types and Formats
+## 1. Overview
+
+LLM4Code brings together researchers and practitioners who develop, evaluate, and deploy large language models and agents for software engineering tasks. The workshop provides a forum for sharing new methods, systems, datasets, and empirical findings; discussing emerging ideas and limitations; and identifying open challenges in building effective, reliable, efficient, and trustworthy LLMs and agents.
+
+We welcome contributions from academia and industry, including original research, early results, experience reports, replication studies, negative findings, and well-argued positions. Our goal is to advance both the capabilities of LLM-based software engineering and our understanding of when, how, and under what conditions these systems are useful.
+
+## 2. Paper Types and Page Limits
 
 This workshop accepts research papers, position papers, and extended abstracts:
 
-* **Research papers (4 – 8 pages including references)** on novel approaches, tools, datasets, or studies.  
-* **Position papers (1 – 4 pages including references)** on novel ideas and positions that have yet to be fully developed.  
-* **Extended abstracts (1 – 5 pages including references)** that are free of article processing charges.
+* **Research papers (4–8 pages, including references)**: substantial contributions describing new approaches, tools, datasets, or empirical studies.  
+* **Position papers (1–4 pages, including references)**: well-argued perspectives, emerging ideas, or research agendas.  
+* **Extended abstracts / short papers (1–5 pages, including references)**: concise reports of early results, demonstrations, experience, or work in progress.
 
-**Important Note on Publication Charges:** All ACM papers, excluding "extended abstracts" (up to five pages), are subject to ACM Open Access policies. ACM papers, excluding "extended abstracts", require either an Open Access institutional agreement or article processing charges (APCs) paid by the authors (USD 250 for ACM members, USD 350 for non-members) for publication.
+## 3. Submission Requirements
 
-All papers must be in English, in PDF format, and must not exceed the page limits listed above. Papers should be submitted via [HotCRP](https://icse2026-llm4code.hotcrp.com/) and will be reviewed in a double-blind process.
-
-Submissions should use the official "ACM Primary Article Template", which can be obtained from the [ACM Proceedings Template page](https://www.acm.org/publications/proceedings-template). LaTeX users should use the `sigconf` option and the `review` option (to produce line numbers for easy reference by reviewers). The following LaTeX code should be placed at the start of the document:
+* Manuscripts must be written in English and submitted as PDF files through the workshop's [HotCRP](https://icse2027-llm4code.hotcrp.com/) site.  
+* Use the official IEEE conference proceedings template. LaTeX authors should use the following document class, without the `compsoc` or `compsocconf` options:  
 
 ```latex
-\documentclass[sigconf,review]{acmart}
+\documentclass[10pt,conference]{IEEEtran}
 ```
 
-Detailed submission policies and formatting guidelines are aligned with the [ICSE 2026 Research Track submission process](https://conf.researchr.org/track/icse-2026/icse-2026-research-track#submission-process).
+* Submissions must be original, must not have been published or accepted elsewhere, and must not be under review at another venue when submitted.  
+* The proposed review model is double-anonymous: author identities should be omitted, and self-citations should be written in the third person. The organizers should confirm this policy before opening submissions.  
+* Alterations to the required template, spacing, or font sizes may result in desk rejection. Extra pages cannot be purchased.
 
-## 2. Archival vs. Non-Archival
+## 4. Publication and Presentation
 
-All accepted papers by default will appear in the ICSE 2026 workshop proceedings (i.e., the **archival** option). The official publication date of the workshop proceedings is the date the proceedings are made available by **ACM**. This date may be up to two weeks prior to the first day of ICSE 2026. The official publication date affects the deadline for any patent filings related to published work.  
+* Accepted archival papers will appear in the IEEE ICSE 2027 workshop proceedings.  
+* The official publication date of the workshop proceedings is the date the proceedings are made available by **IEEE**. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.  
+* **Non-archival option**: authors may request that an accepted paper be posted only on the workshop website and excluded from the formal proceedings.  
+* At least one author of every accepted paper must register for the workshop and present the work.
 
-We also provide a **non-archival** option on the paper submission system (HotCRP) for authors who prefer not to have their papers in the proceedings. For non-archival papers, the camera-ready version will only be posted on our workshop website (and will not be listed on DBLP). 
-
-Please note that regardless of which option you choose (archival or non-archival), submissions must be fully **original** work (not accepted or published elsewhere) at the time of submission, and at least one author of each accepted paper must register for the workshop and present the paper.
-
-## 3. Best Paper Awards
+## 5. Best Paper Awards
 
 **🏆 We will announce best paper awards (up to 10% of accepted papers) during the workshop!**
 
-## 4. Topics
+## 6. Topics of Interest
 
-This workshop accepts submissions on the following topics (but is not limited to):
+Topics of interest include, but are not limited to, the following:
 
-* **LLM Agents for code-relevant tasks**  
-* **LLM applications on code-relevant tasks**  
-  * LLM-based code generation  
-  * LLM-based fuzzing and testing  
-  * LLM-based test generation  
-  * LLM-based GUI testing  
-  * LLM-based mobile application testing  
-  * LLM-based fault localization  
-  * LLM-based program repair  
-  * LLM-based vulnerability detection  
-  * LLM-based code maintenance  
-  * LLM-based program analysis  
-  * LLM-based code comprehension  
-  * LLM-based reverse engineering  
-  * LLM-based code evolution and maintenance  
-  * LLM-based refactoring  
-* **Datasets and Evaluation**  
-  * Datasets for LLM4Code pre-training  
-  * Datasets for LLM4Code post-training  
-  * Datasets for LLM4Code evaluation  
-  * Automated dataset generation/augmentation (e.g., via LLMs)  
-  * Empirical studies on LLM4Code  
-* **Model design and optimization on LLM4Code**  
-  * Model architecture design  
-  * Model hyperparameter tuning  
-  * Prompt tuning and prompt engineering  
-  * Pretraining objective design  
-  * Model alignment  
-  * Model distillation  
-  * Model optimization/quantization
+* **LLM agents and developer workflows**  
+  * Autonomous and interactive coding agents  
+  * Repository-scale and long-horizon software-engineering tasks  
+  * Tool use, planning, memory, context management, and multi-agent coordination  
+  * Human–agent collaboration, developer experience, and mixed-initiative systems  
+  * Efficiency, robustness, observability, and operational reliability  
+* **LLM applications to software-engineering tasks**  
+  * Code generation, completion, and synthesis  
+  * Fuzzing, test generation, GUI testing, and mobile-app testing  
+  * Fault localization, debugging, and program repair  
+  * Vulnerability detection, secure coding, and software assurance  
+  * Program analysis, code comprehension, and reverse engineering  
+  * Refactoring, migration, evolution, maintenance, and documentation  
+* **Datasets, evaluation, and empirical evidence**  
+  * Datasets for pre-training, post-training, and evaluation  
+  * Automated data generation, augmentation, filtering, and curation  
+  * Benchmarks, metrics, and evaluation methodology for models and agents  
+  * Empirical studies of effectiveness, cost, reliability, and developer impact  
+  * Reproducibility, contamination, leakage, and validity of automated evaluators  
+* **Model design, training, and optimization**  
+  * Model architectures and pre-training objectives  
+  * Prompting, context engineering, retrieval, and adaptation  
+  * Alignment, fine-tuning, preference optimization, and distillation  
+  * Quantization, inference optimization, and resource-efficient deployment  
+* **Responsible and trustworthy LLM4Code**  
+  * Security, privacy, safety, and misuse resistance  
+  * Verification, explainability, uncertainty, and hallucination mitigation  
+  * Bias, licensing, intellectual property, provenance, and data governance
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
