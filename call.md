@@ -32,7 +32,7 @@ This workshop accepts research papers, position papers, and extended abstracts:
 * Submissions must be original, must not have been published or accepted elsewhere, and must not be under review at another venue when submitted.  
 * The proposed review model is double-anonymous: author identities should be omitted, and self-citations should be written in the third person. The organizers should confirm this policy before opening submissions.  
 * Alterations to the required template, spacing, or font sizes may result in desk rejection. Extra pages cannot be purchased.  
-* **AI usage policy**: we will follow the same AI usage policy as required by [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track) and [IEEE](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/). Please refer to these guidelines for your submission. Whenever in doubt, please email the PC chairs to confirm.
+* **AI usage policy**: we will follow the same AI usage policy as required by [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track#submission-process) and [IEEE](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/). Please refer to these guidelines when preparing your submission. Whenever in doubt, please email the PC chairs to confirm.
 
 ## 4. Publication and Presentation
 
