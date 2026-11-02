@@ -17,3 +17,7 @@ permalink: /organization/
 ## Web Chair
 
 * [**Zhe Wang**](https://zhewang2001.github.io/) **(University of Illinois Urbana-Champaign, USA)**
+
+## Publicity Chair
+
+* [**Yibo Zhao**](https://yibozh.github.io) **(University of Illinois Urbana-Champaign, USA)**
